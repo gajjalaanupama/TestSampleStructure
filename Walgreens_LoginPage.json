@@ -1,0 +1,30 @@
+{
+    "WalgreensLoginPage": {
+      
+      "UserName":"  //input[@type='email']", 
+      "Password":"//input[@type='password']",
+      "loginButton": "//button[contains(text(),'LOG IN')]",
+      
+      "live_username":"//*[@id='wrapper']//div/div/div[3]/div/div[2]/label[1]/input",
+
+
+      "Login Page Locators":"Written in below",
+
+      "Hints":"//*[@id='HintDlg']//label/b",
+      "Landing_Page_Text_CO_button" : "//*[@id='slider']/div[2]/div/div/a[1]",
+      "Landing_Page_IP" : "//*[@id='wrapper']//div[1]/div/a/img",
+      "Landing_Page_SR" : "//*[@id='wrapper']//div[2]/div/a/img",
+      "Landing_Page_PCA" : "//*[@id='wrapper']//div[3]/div/a/img",
+
+      
+      "Landing_Page_Text":"//*[@id='slider']/div[2]/div/div/h1",
+
+      "logout":"//*[@id='topMain']/li[6]/a",
+
+      "Store_Search_button":"//*[@id='topNav']/div/ul/li/span",
+      "Store_Search_box":"//*[@id='typeahead-format']",
+      "Required_Store_Number":"//*[@class='dropdown-item active']"
+
+
+    }
+  }
